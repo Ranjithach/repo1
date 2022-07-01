@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0490-1856
+
+ Directory of C:\test git
+
+01-07-2022  01:53 PM    <DIR>          .
+01-07-2022  01:53 PM    <DIR>          ..
+01-07-2022  01:53 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  369,756,180,480 bytes free
