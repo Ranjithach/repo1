@@ -8,3 +8,4 @@
 01-07-2022  01:53 PM                 0 test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  369,756,180,480 bytes free
+test1.txt  test2.py
